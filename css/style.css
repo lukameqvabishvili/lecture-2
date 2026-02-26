@@ -1,0 +1,83 @@
+.surati{
+	margin-bottom: 25px;
+}
+
+
+.gverdebi {
+	color: #4E6FAE;
+}
+
+body{
+	padding-top: 25px;
+	padding-left: 25px;
+}
+
+a{
+	color: #8D81FF;
+	text-decoration: none;
+	font-weight: 700;
+	font-style: Bold;
+	font-size: 20px;
+
+}
+
+nav{
+	padding-bottom: 10px;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	margin-bottom: 15px;
+}
+.foot{
+	margin-top: 50px;
+	margin-right: 10px;
+}
+.ww1{
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	color: #4E6FAE;
+}
+.nmb{
+	font-style: normal;
+	display: flex;
+	justify-content: center;
+	color: #84FF81;
+	background-color: #5012D5;
+	width: 44px;
+	height: 44px;
+}
+
+h2{
+	color: #8D81FF;
+}
+
+h3{
+	color: #4E6FAE;
+	font-size: 25px;
+	padding-bottom: 8px;
+}
+
+p{
+	color: #4E6FAE;
+	padding-bottom: 10px;
+}
+
+ol{
+	padding-left: 0px;
+	margin-left: 25px;
+	color: #4E6FAE;
+}
+
+.kontakti{
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	color: #7E8898;
+}
